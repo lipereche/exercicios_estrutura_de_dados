@@ -1,10 +1,10 @@
-package ListaEncadeada;
+package lista3;
 
-public class professor {
+public class professorUcsal {
 private String nome;
 private int id;
 
-public professor(String nome, int id) {
+public professorUcsal(String nome, int id) {
 	
 	this.nome = nome;
 	this.id = id;
